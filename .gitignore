@@ -1,0 +1,11 @@
+# Build output
+*.exe
+*.pdb
+
+# Personal settings written by the app (adapter IDs, IP history, profiles)
+NetworkTools.ini
+
+# Downloaded MAC vendor lists
+manuf
+manuf.txt
+oui.txt
